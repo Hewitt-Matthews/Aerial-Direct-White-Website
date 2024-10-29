@@ -1,0 +1,7 @@
+
+.idea
+node_modules
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.DS_Store
+npm-shrinkwrap.json

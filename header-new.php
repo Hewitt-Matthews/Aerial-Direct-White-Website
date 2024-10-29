@@ -58,7 +58,7 @@ $query = new WP_Query(array(
                     <div
                         class="custom-container container-fluid d-lg-flex flex-row align-items-center padding-v-30 desktop-navbar-hide">
                         <a class="margin-right-70" href="<?php echo home_url(); ?>"><img loading="lazy"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.svg" alt=""
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/new-logo-for-white-site.png" alt=""
                                 class="brand-logo"></a>
                         <a class="nav-1 top-links py-2 d-none d-md-inline-block" href="javascript:;">Products & Solutions</a>
                         <a class="nav-2 top-links py-2 d-none d-md-inline-block" href="javascript:;">Why Choose Aerial Direct?</a>
@@ -456,7 +456,7 @@ $query = new WP_Query(array(
                 <div class="container-fluid d-none mobile-navbar-show justify-content-between padding-v-20">
                     <div class="mobile-logo">
                         <a href="<?php echo home_url(); ?>"><img loading="lazy"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.svg" alt=""
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/new-logo-for-white-site.png" alt=""
                                 class="image-fluid logo"></a>
                     </div>
                     <div class="mobile-menu">

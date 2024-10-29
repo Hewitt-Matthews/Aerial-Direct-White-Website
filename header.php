@@ -77,7 +77,7 @@ $query = new WP_Query(array(
                         class="custom-container container-fluid d-lg-flex flex-row align-items-center padding-v-30 desktop-navbar-hide" style='padding-left:<?php echo get_field('h_p_l', 'option') ?>px;padding-right:<?php echo get_field('h_p_r','option') ?>px;
                                                                                                                                                 padding-top:<?php echo get_field('h_p_t','option') ?>px;padding-bottom:<?php echo get_field('h_p_b','option') ?>px;'>
                     <a class="margin-right-70" href="<?php echo home_url(); ?>"><img loading="lazy"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.svg" alt="aerial-direct brand-logo"
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/new-logo-for-white-site.png" alt="aerial-direct brand-logo"
                                 class="brand-logo"></a>
                     <a class="nav-1 top-links py-2 d-none d-md-inline-block" href="javascript:;">Products & Solutions</a>
                     <a class="nav-2 top-links py-2 d-none d-md-inline-block" href="javascript:;">Why Choose Aerial Direct?</a>
@@ -522,7 +522,7 @@ $query = new WP_Query(array(
             <div class="container-fluid d-none mobile-navbar-show justify-content-between padding-v-20">
                 <div class="mobile-logo">
                     <a href="<?php echo home_url(); ?>"><img loading="lazy"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.svg" alt="AD Logo"
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/new-logo-for-white-site.png" alt="AD Logo"
                                 class="image-fluid logo"></a>
                 </div>
                 <div class="mobile-request">
